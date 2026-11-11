@@ -61,9 +61,9 @@ The microscale procedure from Williamson &amp; Masters, *Macroscale and Microsca
 | Maleic anhydride | 0.20 g (≈2.0 mmol) | dienophile (limiting) |
 | Cyclopentadiene | 0.2 mL (≈0.16 g, ≈2.4 mmol) | diene (freshly cracked) |
 | Ethyl acetate | 1 mL | solvent (dissolves maleic anhydride) |
-| Hexanes | ~3 mL, cold | anti-solvent for crystallization |
+| Hexanes | ≈3 mL, cold | anti-solvent for crystallization |
 
-1. Cool **~3 mL hexanes** in a reaction tube in an **ice bath**.
+1. Cool **≈3 mL hexanes** in a reaction tube in an **ice bath**.
 2. Weigh **0.20 g maleic anhydride** into a reaction tube or vial *(handle carefully — corrosive irritant; keep it in the hood, away from your face)*.
 3. Add **1 mL ethyl acetate** to dissolve the maleic anhydride.
 4. In the **fume hood**, add **0.2 mL cyclopentadiene** with stirring.
